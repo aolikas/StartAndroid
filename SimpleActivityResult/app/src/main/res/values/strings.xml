@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleActivityResult</string>
+    <string name="activity_main_btn_text">Input name</string>
+    <string name="activity_main_text">Your name is</string>
+    <string name="activity_name_text">Name</string>
+    <string name="activity_name_btn_text">OK</string>
+</resources>
