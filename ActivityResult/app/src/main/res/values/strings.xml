@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="activity_main_text">Hello World</string>
+    <string name="activity_main_btn_color">Color</string>
+    <string name="activity_main_btn_alignment">Alignment</string>
+    <string name="activiry_color_btn_red">Red</string>
+    <string name="activiry_color_btn_green">Green</string>
+    <string name="activiry_color_btn_blue">Blue</string>
+    <string name="activity_align_btn_left">Left</string>
+    <string name="activity_align_btn_center">Center</string>
+    <string name="activity_align_btn_right">Right</string>
+</resources>
