@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleBrowser</string>
+    <string name="activity_main_btn_web">web</string>
+</resources>
