@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleSQLite</string>
+    <string name="activity_main_text_name">Name</string>
+    <string name="activity_main_text_email">Email</string>
+    <string name="activity_main_btn_add">Add</string>
+    <string name="activity_main_btn_read">Read</string>
+    <string name="activity_main_btn_clear">Clear</string>
+</resources>
